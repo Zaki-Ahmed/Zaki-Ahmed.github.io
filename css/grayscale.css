@@ -315,4 +315,14 @@ body {
 }
 #contact {
   padding-bottom:250px;
+  width: 100%;
+  background-color: #020202;
+}
+#about {
+  padding-bottom: 250 px;
+  width: 100%;
+  background-color: #020202;
+}
+#download {
+  padding-top: 0px;
 }
